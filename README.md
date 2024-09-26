@@ -1,2 +1,2 @@
-# personalfinance
-Backend for personal finance application.
+# HomeManagement
+Backend for home management application.
